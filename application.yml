@@ -14,5 +14,3 @@ spring:
   profiles: test
   application: 
     name: microservicecloud-config-syh-test
-    
-		
