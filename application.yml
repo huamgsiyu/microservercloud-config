@@ -6,7 +6,7 @@ spring:
 ---
 spring: 
   profiles: dev 
-  application: 	
+  application: 
     name: microservicecloud-config-syh-dev
 
 ---
@@ -14,4 +14,3 @@ spring:
   profiles: test
   application: 
     name: microservicecloud-config-syh-test
-		
